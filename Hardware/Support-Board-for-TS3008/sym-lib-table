@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "TS3008")(type "Legacy")(uri "${KIPRJMOD}/Libraries/TS3008/TS3008.lib")(options "")(descr ""))
+  (lib (name "SGM358YS")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SGM358YS.kicad_sym")(options "")(descr ""))
+  (lib (name "SGM358")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SGM358/SGM358.kicad_sym")(options "")(descr ""))
+)
