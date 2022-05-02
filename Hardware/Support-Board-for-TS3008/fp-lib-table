@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "SGM358")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SGM358/SGM358.pretty")(options "")(descr ""))
   (lib (name "TS3008")(type "Legacy")(uri "${KIPRJMOD}/Libraries/TS3008/TS3008.mod")(options "")(descr ""))
+  (lib (name "TS-1088R")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TS-1088R/TS-1088R.pretty")(options "")(descr ""))
+  (lib (name "2N3904S")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2N3904S/2N3904S.pretty")(options "")(descr ""))
 )
